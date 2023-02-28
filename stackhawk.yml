@@ -1,6 +1,6 @@
 app:
-  applicationId: b62ec144-1192-49b1-b0d6-dfb0bf73f0f0 # (required)
+  applicationId: 6943628c-5f33-4fbc-a10e-c761f7216447 # (required)
   env: Development # (required)
-  host: http://localhost:3000 # (required)
+  host: https://appneo.digiboxx.com # (required)
 hawk:
   failureThreshold: high
